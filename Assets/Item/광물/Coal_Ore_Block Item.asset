@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a116176e72867ea44a678d022153002b, type: 3}
+  m_Name: Coal_Ore_Block Item
+  m_EditorClassIdentifier: 
+  itemName: "\uC11D\uD0C4"
+  itemType: 2
+  itemImage: {fileID: 1078005897048432452, guid: 0f3a5bd86b30f844e8da986b32a989b2, type: 3}
+  itemPrefab: {fileID: 5453434741220821605, guid: 9e8fe85a5979cad439d733b8ad50265e, type: 3}
+  weaponType: 

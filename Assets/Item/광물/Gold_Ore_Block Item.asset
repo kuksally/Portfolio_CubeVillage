@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a116176e72867ea44a678d022153002b, type: 3}
+  m_Name: Gold_Ore_Block Item
+  m_EditorClassIdentifier: 
+  itemName: "\uAE08"
+  itemType: 2
+  itemImage: {fileID: 4608691952234771927, guid: 0f3a5bd86b30f844e8da986b32a989b2, type: 3}
+  itemPrefab: {fileID: 7503778301711197974, guid: bf463b0e87e0d7940a1a92e493050745, type: 3}
+  weaponType: 
